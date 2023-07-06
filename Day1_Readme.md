@@ -3,6 +3,7 @@
 ## _Day 1:_ 
 ## Topics Covered
 
+- Intro to Git
 - Github Setup
     + Github Account Creation
     + Git Bash Setup
@@ -11,6 +12,9 @@
     + Python Installation
 - PyCharm Setup
 ---- 
+# Intro to Git
+TODO
+----
 # Github Setup
 
 **Github** is a web based distributed verson control collabartion software. In normal words it is a software that facilitates collabarion between different developers or engineers when they are working on same code base.
@@ -39,7 +43,13 @@ Download **GITBASH** for your respective os
 
 ## Useful Basic Commands of Git
 ---
-In this we will learn few basic git commands that will come in handy when you want to interact with github or git. 
+In this we will learn few basic git commands that will come in handy when you want to interact with github or git.
+
+- git clone
+- git add
+- git commit
+- git push
+- git checkout
 
 ```
 git clone <repo link>
